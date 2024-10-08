@@ -40,15 +40,21 @@ Set your upstream for the branch
 ```sh
 git branch --set-upstream-to=origin/<BRANCH_NAME>  <BRANCH_NAME>
 ```
-Make your wonderful changes however you see fit. Now, push your changes. Please commit your edits with a meaningful message! 
+Now, push your branch to the remote repository.
+
+```sh
+git push --set-upstream origin <BRANCH_NAME>
+```
+
+Make your wonderful changes however you see fit, then stage, commit your changes, and push again to the remote. Please commit your edits with a meaningful message! 
 
 ```sh
 git add .
 git commmit -m "I added X, Y, and Z to the <SECTION> section"
-git push -d origin <BRANCH_NAME>
+git push
 ```
 
-then pull the latest changes from main and rebase your changes to `main`
+Once you've pushed, pull the latest changes from main and rebase your changes to `main`
 
 ```sh
 git checkout main 
