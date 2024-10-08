@@ -64,7 +64,7 @@ git pull
 git checkout <BRANCH_NAME>
 git rebase main <BRANCH_NAME>
 ```
-
+Once you've done this 
 
 Once your branch has been used to commit changes, you can delete it
 
