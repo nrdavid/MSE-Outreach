@@ -1,47 +1,98 @@
-site_name: "MSE-Outreach"
+# Project information
+site_name: MSE Outreach 
 repo_name: https://github.com/nrdavid/MSE-Outreach
+site_description: Official web page of MSE Outreach at the University of Michigan - Ann Arbor. 
+site_author: Gillian James, Nicholas David & Jason Landini
 
+# Repository
+repo_name: nrdavid/MSE-Outreach
+repo_url: https://github.com/nrdavid/MSE-Outreach
+
+# Copyright
+copyright: Copyright &copy; 2024 -
+
+# Plugins
+plugins:
+  - search
+  - glightbox
+  - git-committers:
+      repository: nrdavid/MSE-Outreach
+      branch: main
+  - git-revision-date-localized:
+      enable_creation_date: true
+
+# Theme
 theme:
   name: material
-  custom_dir: overrides/
+  # used to override partials like footer and copyright
+  custom_dir: overrides
   features:
-    - navigation.instant
-    - navigation.tabs
-    - navigation.sections
-    - navigation.expand
-    - navigation.path
-    - navigation.top
-    - navigation.indexes
-    - header.autohide
-    - toc.integrate
-    - toc.follow
-    - content.code.copy
-    - search.suggest
-    - search.share
     - announce.dismiss
+    - content.action.edit
+    - content.action.view
+    - content.code.annotate
+    - content.code.copy
+    - content.code.select
+    # - content.footnote.tooltips
+    # - content.tabs.link
+    - content.tooltips
+    # - header.autohide
+    # - navigation.expand
+    - navigation.footer
+    - navigation.indexes
+    # - navigation.instant
+    # - navigation.instant.prefetch
+    # - navigation.instant.progress
+    # - navigation.prune
+    # - navigation.sections
+    # - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.top
+    - navigation.tracking
+    - search.highlight
+    - search.share
+    - search.suggest
+    # - toc.follow
+    # - toc.integrate
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: amber
+      accent: amber
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: amber
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
   font:
     text: Roboto
     code: Roboto Mono
+  #favicon: assets/favicon.png
+  logo: assets/logo.png
   icon:
-    repo: fontawesome/brands/github
-  palette:
-    # Light mode toggle
-    - media: "(prefers-color-scheme: light)"
-      scheme: default
-      toggle:
-        icon: material/brightness-7
-        name: Switch to dark mode
-      primary: deep blue
-      accent: yellow
-    # Dark mode toggle
-    - media: "(prefers-color-scheme: dark)"
-      scheme: slate
-      toggle:
-        icon: material/brightness-4
-        name: Switch to light mode
-      primary: black
-      accent: yellow
-      
+    logo: logo
+    annotation: material/plus-circle
+
+# Additional configuration
+extra:
+  # line below removes "Made with Material for MkDocs" footer line
+  # generator: false
+  status:
+    new: Recently added
+    deprecated: Deprecated
+  # social:
+    # - icon: material/web
+    #   link: https://whsunresearch.group/
+
 # Extensions
 markdown_extensions:
   - abbr
@@ -72,7 +123,7 @@ markdown_extensions:
       normalize_issue_symbols: true
       repo_url_shorthand: true
       user: nrdavid
-      repo: whsun-docs
+      repo: MSE-Outreach
   - pymdownx.mark
   - pymdownx.smartsymbols
   - pymdownx.snippets:
@@ -93,46 +144,19 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
 
+# Page tree
 nav:
   - Home: index.md
 
   - About Us:
-  
+    - Who Are We?: 'about_us/who_are_we.md'
+    - Contact Us: 'about_us/contact_us.md'
 
   - Classroom Demos (1-2 hrs):
     - Battery Lab: 'classroom_demos/battery_lab.md'
     - Chocolate Tempering: 'classroom_demos/chocolate_tempering.md'
     - Crystal Growth: 'classroom_demos/crystal_growth.md'
     - Hydrogels: 'classroom_demos/hydrogels.md'
+
   - Shorter MSE Demos (5-15 mins):
     - Tempering Bobby Pins: 'smaller_demos/tempering_bobby.md'
-  - About Us:
-    - Who Are We?: 'about_us/who_are_we.md'
-    - Contact Us: 'contact_us.md'
-
-
-markdown_extensions:
-  - attr_list
-  - md_in_html
-  - markdown_include.include:
-      base_path: docs
-  - admonition
-  - pymdownx.details
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
-
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/nrdavid/MSE-Outreach
-  generator: false
-  extra_css:
-  - stylesheets/extra.css
-
-plugins:
-  - search
-  - minify:
-      minify_html: true
-  - git-revision-date-localized:
-      enable_creation_date: true
