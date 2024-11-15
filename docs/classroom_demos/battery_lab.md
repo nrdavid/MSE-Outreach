@@ -5,6 +5,7 @@ welcome to the battery lab tutorial!
 ## subsection
 
 words words words words words 
+more words!
 
 <figure markdown="span">
   ![Battery cartoon](../assets/battery_cartoon.jpg)
