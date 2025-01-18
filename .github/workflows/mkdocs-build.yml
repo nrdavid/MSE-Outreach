@@ -26,20 +26,16 @@ jobs:
       - name: Checkout repo
         uses: actions/checkout@v4
 
-      - name: Cache conda environment
-        uses: actions/cache@v3
-        with:
-          path: ~/.conda/envs
-          key: ${{ runner.os }}-conda-${{ hashFiles('**/environment.yml') }}
-          restore-keys: |
-            ${{ runner.os }}-conda-
-
       - name: Set up Miniconda
-        uses: conda-incubator/setup-miniconda@v2
+        uses: conda-incubator/setup-miniconda@v3
         with:
-          environment-file: environment.yml
           activate-environment: MSE-outreach
+          environment-file: environment.yml
           python-version: 3.12.7
+          auto-activate-base: false
+        run: |
+          conda info
+          conda list
 
       - name: Build site
         run: |
