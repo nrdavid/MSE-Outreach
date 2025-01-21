@@ -18,7 +18,7 @@ plugins:
   - git-committers:
       repository: nrdavid/MSE-Outreach
       branch: main
-      token: "dummy"
+      strict: false # suppressed token error for CI. Be cautious of contributor fetching
   - git-revision-date-localized:
       enable_creation_date: true
 
