@@ -27,15 +27,12 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Set up Miniconda
-        uses: conda-incubator/setup-miniconda@v3
-        with:
-          activate-environment: MSE-outreach
-          environment-file: environment.yml
-          python-version: 3.12.7
-          auto-activate-base: false
         run: |
-          conda info
-          conda list
+          wget https://repo.anaconda.com/miniconda/Miniconda3-latest-Linux-x86_64.sh
+          bash Miniconda3-latest-Linux-x86_64.sh -b
+          source ~/miniconda3/bin/activate
+          conda env create -f environment.yml
+          conda activate MSE-outreach
 
       - name: Build site
         run: |
