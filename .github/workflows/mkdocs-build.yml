@@ -32,10 +32,8 @@ jobs:
           bash Miniconda3-latest-Linux-x86_64.sh -b
           source ~/miniconda3/bin/activate
           conda env create -f environment.yml
-          conda activate MSE-outreach
 
       - name: Build site
         run: |
-          conda env list
-          python --version
+          source ~/miniconda3/bin/activate MSE-outreach
           mkdocs build --strict
