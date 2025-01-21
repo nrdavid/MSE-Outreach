@@ -36,4 +36,6 @@ jobs:
 
       - name: Build site
         run: |
+          conda env list
+          python --version
           mkdocs build --strict
