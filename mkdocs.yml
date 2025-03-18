@@ -148,9 +148,9 @@ markdown_extensions:
 nav:
   - Home: index.md
 
-  - About Us:
-    - Who Are We?: 'about_us/who_are_we.md'
-    - Contact Us: 'about_us/contact_us.md'
+  - About us: about_us.md
+  - What is MSE?: what_is_mse.md 
+  - Contact us: contact_us.md
 
   - Classroom Demos (1-2 hrs):
     - Battery Lab: 'classroom_demos/battery_lab.md'
