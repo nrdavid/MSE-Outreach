@@ -20,12 +20,12 @@ Chocolate originates from the Theobroma Cacao or Cocoa tree and only grows in a 
 To turn cocoa into chocolate, the cocoa beans are crushed up, separating the 'nibs', or meat of the bean, from the shell. These nibs are mixed with cocoa butter to form a colloidal mixture -- a heterogeneous mixture of two substances where one substance is suspended in the other. To this we add sugar and milk to give chocolate the taste we know and love.
 
 <figure markdown="span">
-  ![Cacao to cocoa](choc_temp_imgs/cacao_to_cocoa.png){ width="500", loading=lazy}
-  <figcaption>Turning cocao to cocoa.</figcaption>
+  ![Cacao to cocoa](../assets/choc_temp_lab/cacao_to_cocoa.png){ width="500", loading=lazy}
+    <figcaption>Turning cacao to cocoa.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Colloidal chocolate](choc_temp_imgs/colloid_chocolate.png){ width="500", loading=lazy}
+  ![Colloidal chocolate](../assets/choc_temp_lab/colloid_chocolate.png){ width="500", loading=lazy}
   <figcaption>Chocolate as a colloidal mixture of cocoa and cocoa butter.</figcaption>
 </figure>
 
@@ -38,12 +38,12 @@ One type of chocolate (e.g., milk chocolate) can exist in different forms despit
     What other materials have polymorphs? Hint: Think about pencil tips and wedding rings.
 
 <figure markdown="span">
-  ![Chocolate triglycerides](choc_temp_imgs/trig_temp.png){ width="500", loading=lazy}
+  ![Chocolate triglycerides](../assets/choc_temp_lab/trig_temp.png){ width="500", loading=lazy}
   <figcaption>Triglyceride structures in chocolate.</figcaption>
 </figure>
 
 <figure markdown="span">
-  ![Chocolate phases](choc_temp_imgs/choc_phases.png){ width="500", loading=lazy}
+  ![Chocolate phases](../assets/choc_temp_lab/choc_phases.png){ width="500", loading=lazy}
   <figcaption>The phases of chocolate and their properties.</figcaption>
 </figure>
 
@@ -51,7 +51,7 @@ One type of chocolate (e.g., milk chocolate) can exist in different forms despit
 To form the desired phase (i.e., phase V) of chocolate, we need to perform a series of heating steps to ensure crystallization. First we melt the chocolate heating it to 113 F. Then we lower the temperature of liquid such that the liquid is below its freezing point with becoming a solid, the definition of *undercooling*. During this process, 'seed' crystals of phase V chocolate will form within the liquid melt encouraging the surrounding chocolate to crystallize into phase V as well. During this step, the chocolate is scraped and folded to promote mixing. Finally, the chocolate is gently re-heated to remove any phase IV chocolate that has formed. This re-heating and cooling procedure can be repeated to obtain a more homogenous phase V chocolate product.
 
 <figure markdown="span">
-  ![Heat treatment](choc_temp_imgs/heat_treat.png){ width="500", loading=lazy}
+  ![Heat treatment](../assets/choc_temp_lab/heat_treat.png){ width="500", loading=lazy}
   <figcaption>A diagram of the heat treatment steps to form phase V chocolate.</figcaption>
 </figure>
 
@@ -80,7 +80,7 @@ As the chocolate melts, try to keep the chocolate temperature between 113 F and 
     ???+ question
         Why are we adding some solid chocolate pieces, and why is this important for making phase V chocolate? What’s happening in the chocolate melt when we hold the temperature at that range? Hint: use this image to guide your thinking:
     <figure markdown="span">
-      ![Chocolate phases](choc_temp_imgs/trig_mat.png){ width="500", loading=lazy}
+      ![Chocolate phases](../assets/choc_temp_lab/trig_mat.png){ width="500", loading=lazy}
     </figure>
 
 8.  After 5 minutes, heat the chocolate again ever-so-slightly to 84-86 F (29-30 C). DO NOT let it go above 90 F.

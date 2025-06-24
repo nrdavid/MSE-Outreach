@@ -6,8 +6,8 @@ In this demo, students will learn about hydrogels- and make their very own!
 
 In this lab, we will use solutions of two common materials: sodium alginate and calcium chloride. Sodium alginate is a polymer that comes from seaweed and is used by algae to support its cell walls. Sodium alginate is commonly used in food, medicine, and to make hydrogels! Calcium chloride is a salt often used to melt ice on roads in the winter.
 
-- Calcium chloride (a powder version, such as this: https://www.amazon.com/Original-Ingredients-Calcium-Chloride-Making/dp/B07532VLYX/ref=sr_1_2?crid=8NM1NZGSQIT7&dib=eyJ2IjoiMSJ9.Ug-FEDvkR36sP84XiGgLl5wDGG-3WIbhvECH6T0Z1wXyet9yHGzrPkw_HazUI93HKogUQ8jJhTxDwKtZoTJ1FSarT3JRRMhVKUDcO4flWu0OwKrqP8n7OnXwYj1IwwTePAxnP9C_RdTIHY6TJySnD3KHJcFpE4or6dYCd6XoM46-iE4zXwn-c8Nc6c0L__NAGNLiaOIQOTvnCx_NSSXTb_JvP3GA9Kr9hQ4kHvQYLpxtn69Qb3Fi_MS0jzDKHOUOlj76QAAEITbPjaaHhu6grILng-H6b1NPgYUxH32fcV0.i8oiY-6JFkcJxQQ0vesfoYS9_PM23DqQgBCkwpbAHV0&dib_tag=se&keywords=calcium+chloride&qid=1718639262&sprefix=calcium+chloride%2Caps%2C113&sr=8-2)
-- Sodium alginate (powder, such as this: https://www.amazon.com/Sodium-Alginate-Powder-Thickening-Non-GMO/dp/B09MWQ45Z9/ref=sr_1_1?crid=38B8ZNKDVCJP3&dib=eyJ2IjoiMSJ9.iLeXOjqjf_jARcCiPMe58pTTg6dSPH1WjTkTIAiZBQS0tDd3QU0DPrdr2iTKw4LPyr-gaVn81cZdFApFDwrFAV4phgMKbup3ecrt6ytuSFOqpqKazTqr3AYbLnMdDxe_D-SiV8mSu_zC9AHSJhR_RtEyHGG6eKrIEB1LF7rjLQeVtDMKrE-IlEoXAftzoSZx1mrNhVuKFJL1f6xBvxeNoYqOOgGLrvyq3L41wfCjN9QbMTd9Qbx6jf6BUD5_JWxOn1epFGYXjSd1nmbaDxiVLnr22ohEdOOHQ6ZYoKyJY8o.s_QRSrm43f42eBs3augl-MabHwLtxjuXODt0oTdCSqA&dib_tag=se&keywords=sodium+alginate+powder+%28food+grade%29&qid=1718639025&sprefix=sodium+alginate+powder+food+grade+%2Caps%2C143&sr=8-1)
+- Calcium Chloride (powder, such as [this](https://a.co/d/blizopW))
+- Sodium alginate (powder, such as [this](https://a.co/d/0TCGLwl))
 - two large glass containers
 - food coloring
 - small plastic cups or sauce containers

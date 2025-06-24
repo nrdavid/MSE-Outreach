@@ -151,7 +151,7 @@ nav:
   - About us: about_us.md
   - What is MSE?: what_is_mse.md
   - Careers in MSE: careers.md
-  - Contact us: contact_us.md
+  # - Contact us: contact_us.md
 
   - Classroom Demos (1-2 hrs):
     - Battery Lab: 'classroom_demos/battery_lab.md'
