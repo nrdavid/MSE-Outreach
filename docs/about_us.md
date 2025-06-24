@@ -32,7 +32,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 <div class="profile-grid">
 
 <div class="profile-card">
-  <img src="/assets/headshots/zoe_meyer.jpg" alt="Zoe Meyer">
+  <img src="../assets/headshots/zoe_meyer.jpg" alt="Zoe Meyer">
   <strong>Zoe Meyer</strong><br>
   President<br>
   PhD Pre-Candidate, Materials Science & Engineering<br>
@@ -43,7 +43,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/yvonne_amaria.jpg" alt="Yvonne Amaria">
+  <img src="../assets/headshots/yvonne_amaria.jpg" alt="Yvonne Amaria">
   <strong>Yvonne Amaria</strong><br>
   Vice President<br>
   PhD Student, Materials Science and Engineering<br>
@@ -54,7 +54,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/alexis_luglio.jpg" alt="Alexis Luglio">
+  <img src="../assets/headshots/alexis_luglio.jpg" alt="Alexis Luglio">
   <strong>Alexis Luglio</strong><br>
   Member – Demo Planning<br>
   PhD Candidate, Materials Science & Engineering<br>
@@ -65,7 +65,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/kayla_huang.jpg" alt="Kayla Huang">
+  <img src="../assets/headshots/kayla_huang.jpg" alt="Kayla Huang">
   <strong>Kayla Huang</strong><br>
   Member – Demo Planning, Website<br>
   PhD Pre-Candidate, Materials Science & Engineering<br>
@@ -76,7 +76,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/jason_landini.jpg" alt="Jason Landini">
+  <img src="../assets/headshots/jason_landini.jpg" alt="Jason Landini">
   <strong>Jason Landini</strong><br>
   Member – Website<br>
   PhD Pre-Candidate, MSE<br>
@@ -87,7 +87,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/caroline_harms.png" alt="Caroline Harms">
+  <img src="../assets/headshots/caroline_harms.png" alt="Caroline Harms">
   <strong>Caroline Harms</strong><br>
   Member – Demo Planning<br>
   PhD Pre-Candidate, MSE<br>
@@ -98,7 +98,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/maalini _krishna.jpg" alt="Maalini Krishna">
+  <img src="../assets/headshots/maalini _krishna.jpg" alt="Maalini Krishna">
   <strong>Maalini Krishna</strong><br>
   Member – Demo Planning<br>
   PhD Pre-Candidate, MSE<br>
@@ -109,7 +109,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/lakshman_vijay.jpg" alt="Lakshman Vijay">
+  <img src="../assets/headshots/lakshman_vijay.jpg" alt="Lakshman Vijay">
   <strong>Lakshman Vijay</strong><br>
   Member – Demo Planning, Events<br>
   Master's, MSE<br>
@@ -120,7 +120,7 @@ We aim to ignite curiosity and show that science is both exciting and impactful.
 </div>
 
 <div class="profile-card">
-  <img src="/assets/headshots/nicholas_david.jpg" alt="Nicholas David">
+  <img src="../assets/headshots/nicholas_david.jpg" alt="Nicholas David">
   <strong>Nicholas David</strong><br>
   Member - website<br>
   PhD Candidate, Materials Science & Engineering<br>
